@@ -1,7 +1,7 @@
 # Activity-lifecycle-and-state-DMA
-<img src="images/task1.JPG" width="300" />
-<img src="images/challenge.JPG" width="300" />
-<img src="images/challenge1.JPG" width="300" />
-<img src="images/challenge2.JPG" width="300" />
-<img src="images/homework.JPG" width="300" />
-<img src="images/homework1.JPG" width="300" />
+<img src="./task1.JPG" alt="alt text" width="300" height="400" />
+<img src="./challenge.JPG" alt="alt text" width="300" height="400" />
+<img src="./challenge1.JPG" alt="alt text" width="300" height="400" />
+<img src="./challenge2.JPG" alt="alt text" width="300" height="400" />
+<img src="./homework.JPG" alt="alt text" width="300" height="400" />
+<img src="./homework1.JPG" alt="alt text" width="300" height="400" />
